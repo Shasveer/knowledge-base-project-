@@ -1,25 +1,41 @@
-# Project Summary
+# Knowledge Base Navigation Index
 
-## Partners and Contributions
+## Git Fundamentals
 
-- **Learner A (project maintainer):** Set up the repository structure, authored the main README, configured `.gitignore`, and wrote the topic and reference chapters.
-- **Learner B (collaborator):** Added the introduction chapters and contributed to content planning and editing.
+- `knowledge-base/git/git-init.md`: Initialize a new repository.
+- `knowledge-base/git/git-branch.md`: Create and manage branches.
+- `knowledge-base/git/git-commit.md`: Save changes with commits.
+- `knowledge-base/git/git-merge.md`: Combine branch changes.
+- `knowledge-base/git/git-pull-push.md`: Sync with remote repositories.
 
-## Git and GitHub Workflow
+## Markdown Syntax
 
-- Initialized project with a clear repository structure.
-- Used branches for discrete chapter work.
-- Committed with descriptive messages and merged branches into `main`.
-- Tagged the final project version as `v1.0`.
-- Included a project summary and clear markdown navigation.
+- `knowledge-base/markdown/headings.md`: Create section headings.
+- `knowledge-base/markdown/lists.md`: Organize with lists.
+- `knowledge-base/markdown/links.md`: Add hyperlinks.
+- `knowledge-base/markdown/code-blocks.md`: Display code snippets.
+- `knowledge-base/markdown/tables.md`: Format tabular data.
 
-## Challenges and Lessons Learned
+## Collaborative Workflows
 
-- Organizing a knowledge base into separate chapters helps keep content readable.
-- Using branches provides a safe way to collaborate on chapters independently.
-- Writing clear commit messages and summaries improves project transparency.
+- `knowledge-base/workflows/branching-workflow.md`: Use branches for development.
+- `knowledge-base/workflows/pr-reviews.md`: Review code changes.
+- `knowledge-base/workflows/issue-tracking.md`: Manage tasks and bugs.
+- `knowledge-base/workflows/collaboration.md`: Work with teams.
 
-## Notes for Further Collaboration
+## Partners and contributions
 
-- Additional GitHub Issues can be opened for new chapter ideas or content reviews.
-- A future release can add visual diagrams and hands-on AI examples.
+- **Learner A:** Restructured content, added Git and Markdown concepts with examples.
+- **Learner B:** Contributed workflow guides and collaboration insights.
+
+## Git and GitHub workflow evidence
+
+- Branches for feature development (e.g., `enhance-docs-structure`).
+- Issues for tracking improvements (#1, #2).
+- Pull requests for reviews (#3).
+
+## Lessons learned
+
+- Clear folder structure improves navigation.
+- Each file focusing on one concept enhances readability.
+- Including examples and commands makes content practical.
