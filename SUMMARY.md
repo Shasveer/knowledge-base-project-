@@ -2,7 +2,7 @@
 
 ## Partners and Contributions
 
-- **Learner A (project maintainer):** Set up the repository structure, authored the main README, configured `.gitignore`, and wrote the topic and reference chapters.
+- **Shasveer Ramchander (project maintainer):** Set up the repository structure, authored the main README, configured `.gitignore`, and wrote the topic and reference chapters.
 - **Learner B (collaborator):** Added the introduction chapters and contributed to content planning and editing.
 
 ## Git and GitHub Workflow
