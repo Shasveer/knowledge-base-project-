@@ -1,32 +1,41 @@
-# Project Summary and Navigation Map
+# Knowledge Base Navigation Index
 
-## Navigation map
+## Git Fundamentals
 
-- `knowledge-base/introduction/`
-  - `chapter1-introduction.md`: What AI is, why it matters, examples, and use cases.
-  - `chapter2-goals.md`: Learning goals, how to use the guide, and what to expect.
-- `knowledge-base/topics/`
-  - `chapter3-topic-overview.md`: AI domains and common applications.
-  - `chapter4-key-concepts.md`: Core AI terminology, model training, and examples.
-  - `chapter5-best-practices.md`: Responsible AI principles and practical rules.
-  - `chapter6-common-mistakes.md`: Frequent errors and how to avoid them.
-- `knowledge-base/references/`
-  - `chapter7-resources.md`: Books, websites, and communities.
-  - `chapter8-glossary.md`: Important terms for quick reference.
+- `knowledge-base/git/git-init.md`: Initialize a new repository.
+- `knowledge-base/git/git-branch.md`: Create and manage branches.
+- `knowledge-base/git/git-commit.md`: Save changes with commits.
+- `knowledge-base/git/git-merge.md`: Combine branch changes.
+- `knowledge-base/git/git-pull-push.md`: Sync with remote repositories.
+
+## Markdown Syntax
+
+- `knowledge-base/markdown/headings.md`: Create section headings.
+- `knowledge-base/markdown/lists.md`: Organize with lists.
+- `knowledge-base/markdown/links.md`: Add hyperlinks.
+- `knowledge-base/markdown/code-blocks.md`: Display code snippets.
+- `knowledge-base/markdown/tables.md`: Format tabular data.
+
+## Collaborative Workflows
+
+- `knowledge-base/workflows/branching-workflow.md`: Use branches for development.
+- `knowledge-base/workflows/pr-reviews.md`: Review code changes.
+- `knowledge-base/workflows/issue-tracking.md`: Manage tasks and bugs.
+- `knowledge-base/workflows/collaboration.md`: Work with teams.
 
 ## Partners and contributions
 
-- **Learner A:** Created the repository structure, updated the README, and added topic content with examples.
-- **Learner B:** Added the introduction chapters and improved learning goals and chapter flow.
+- **Learner A:** Restructured content, added Git and Markdown concepts with examples.
+- **Learner B:** Contributed workflow guides and collaboration insights.
 
 ## Git and GitHub workflow evidence
 
-- Branch creation and merges are used to manage content improvements.
-- GitHub issues are created to track documentation enhancements.
-- Pull requests are used to review and merge changes.
+- Branches for feature development (e.g., `enhance-docs-structure`).
+- Issues for tracking improvements (#1, #2).
+- Pull requests for reviews (#3).
 
 ## Lessons learned
 
-- Documentation is easier to follow when chapters are clearly separated and linked.
-- Adding examples and commands helps learners apply knowledge faster.
-- Using issue templates and PR templates keeps collaboration organized.
+- Clear folder structure improves navigation.
+- Each file focusing on one concept enhances readability.
+- Including examples and commands makes content practical.
