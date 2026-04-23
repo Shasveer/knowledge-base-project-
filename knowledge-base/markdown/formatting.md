@@ -29,3 +29,4 @@ Code block
 ## Use case
 
 Technical documentation uses code blocks and tables for clarity.
+⬅️ Back to [Home](../../index.md)

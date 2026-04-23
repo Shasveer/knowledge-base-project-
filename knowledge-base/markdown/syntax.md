@@ -27,3 +27,4 @@ Use # for headings, - for lists, **bold** for emphasis.
 ## Use case
 
 Documentation, README files, and notes use Markdown for readability.
+⬅️ Back to [Home](../../index.md)

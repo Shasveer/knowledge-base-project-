@@ -21,4 +21,4 @@ git merge feature-branch
 
 ## Use case
 
-Integrate completed features, bug fixes, or releases into the main codebase.
+Integrate completed features, bug fixes, or releases into the main codebase.⬅️ Back to [Home](../../index.md)

@@ -24,4 +24,4 @@ git merge feature-x
 
 ## Use case
 
-Teams use branches for features, bug fixes, and releases.
+Teams use branches for features, bug fixes, and releases.⬅️ Back to [Home](../../index.md)
