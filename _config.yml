@@ -1,0 +1,7 @@
+title: Git and Markdown Workflows Knowledge Base
+description: A collaborative knowledge base demonstrating Git version control and Markdown documentation workflows
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
