@@ -1,6 +1,6 @@
-# Collaboration
+# Collaboration Workflow
 
-## Definition
+## Concept
 
 Collaboration involves multiple contributors working together.
 
@@ -12,7 +12,7 @@ Using Git and GitHub enables distributed teamwork.
 
 Fork, branch, contribute via PR.
 
-## Command block
+## Command
 
 ```bash
 git fork
@@ -21,6 +21,6 @@ git clone your-fork
 gh pr create
 ```
 
-## Real-world use case
+## Use case
 
 Open-source software relies on global collaboration.
