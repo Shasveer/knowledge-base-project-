@@ -16,19 +16,12 @@ This file acts as the navigation hub for all topics.
 
 ## ✍️ Markdown
 
-- [Markdown Syntax](knowledge-base/markdown/markdown-syntax.md)
-- [Formatting Guide](knowledge-base/markdown/formatting-guide.md)
+- [Syntax](knowledge-base/markdown/syntax.md)
+- [Formatting](knowledge-base/markdown/formatting.md)
 
 ---
 
 ## 🔄 Workflows
 
 - [Git Workflow](knowledge-base/workflows/git-workflow.md)
-- [Collaboration Workflow](knowledge-base/workflows/collaboration.md)
-
----
-
-## 📖 Concepts
-
-- [Version Control](knowledge-base/concepts/version-control.md)
-- [Repositories](knowledge-base/concepts/repositories.md)
+- [Collaboration](knowledge-base/workflows/collaboration.md)
