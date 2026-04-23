@@ -1,19 +1,22 @@
 # Chapter 3: Topic Overview — What AI Can Do
 
-AI is an umbrella term covering many approaches, including machine learning, natural language processing, computer vision, and robotics.
+## Explanation
 
-## Main areas of AI
+AI is a broad field with many domains, including machine learning, natural language processing, computer vision, and robotics.
 
-- **Machine Learning (ML):** Systems learn from examples and improve over time.
-- **Natural Language Processing (NLP):** Systems understand and generate human language.
-- **Computer Vision:** Systems interpret images and video.
-- **Robotics:** Systems sense the world and act within it.
+## Example
 
-## Common AI applications
+A computer vision model can classify images of animals, while a chatbot uses natural language processing to answer questions.
 
-- Virtual assistants like Siri and Alexa
-- Product recommendations on shopping sites
-- Image recognition in security and healthcare
-- Chatbots and customer support automation
+## Command block
 
-> For AI basics and key concepts, go to [Chapter 4](chapter4-key-concepts.md).
+```python
+from sklearn.linear_model import LogisticRegression
+print('Machine learning model example loaded')
+```
+
+## Real-world use case
+
+Companies use AI to power search results, recommend products, and detect anomalies in manufacturing lines.
+
+> For core concepts, go to [Chapter 4](chapter4-key-concepts.md).

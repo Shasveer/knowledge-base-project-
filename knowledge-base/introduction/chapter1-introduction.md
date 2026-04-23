@@ -1,18 +1,21 @@
 # Chapter 1: Introduction to Artificial Intelligence
 
-Artificial Intelligence (AI) is the field of computer science dedicated to creating systems that can perform tasks traditionally requiring human intelligence.
+## Explanation
 
-## Why AI matters
+Artificial Intelligence (AI) refers to systems that can perform tasks that normally require human intelligence, such as understanding language, recognizing images, or making decisions.
 
-- Automates routine and complex processes
-- Enhances decision-making with data-driven predictions
-- Powers new technology like virtual assistants, recommendation systems, and robotics
+## Example
 
-## What you will learn in this knowledge base
+A simple example is a smart assistant that can answer questions, set reminders, and recommend products.
 
-- Fundamental AI concepts
-- Common AI applications and use cases
-- Best practices for ethical and effective AI development
-- Mistakes to avoid when working with AI
+## Command block
 
-> See [Chapter 2](../introduction/chapter2-goals.md) for the learning goals of this knowledge base.
+```bash
+python -c "print('Hello AI world!')"
+```
+
+## Real-world use case
+
+AI assistants like Siri and Alexa use language understanding and prediction models to respond to user requests in real time.
+
+> See [Chapter 2](chapter2-goals.md) for the goals and how to use this guide.

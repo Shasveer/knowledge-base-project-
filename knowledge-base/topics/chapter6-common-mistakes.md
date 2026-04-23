@@ -1,20 +1,21 @@
 # Chapter 6: Common Mistakes in AI Projects
 
-AI development is powerful, but it is easy to make mistakes early on.
+## Explanation
 
-## Common pitfalls
+This chapter highlights common AI mistakes and how to avoid them in real projects.
 
-- Using poor or biased training data
-- Ignoring data quality and assumptions
-- Overfitting models to training data
-- Failing to validate with real-world examples
-- Neglecting explainability and user trust
+## Example
 
-## How to avoid mistakes
+One mistake is using outdated data that no longer represents current customer behavior.
 
-- Review data sources carefully
-- Use validation and test datasets
-- Monitor model performance over time
-- Involve diverse reviewers and stakeholders
+## Command block
 
-> Continue to [Chapter 7](../references/chapter7-resources.md) for further resources.
+```bash
+python evaluate_model.py --test-data test.csv
+```
+
+## Real-world use case
+
+Teams often retrain models when performance drops because the data distribution has changed.
+
+> Continue to [Chapter 7](../references/chapter7-resources.md) for learning resources.

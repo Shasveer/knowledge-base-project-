@@ -1,21 +1,23 @@
 # Chapter 4: Key AI Concepts
 
-Understanding AI begins with a few core ideas.
+## Explanation
 
-## Important terms
+This chapter explains important AI terms and the steps used to build an AI system.
 
-- **Algorithm:** A step-by-step procedure for solving a problem.
-- **Model:** A trained program that makes predictions or decisions.
-- **Training data:** The examples used to teach an AI model.
-- **Supervised learning:** Training with labeled examples.
-- **Unsupervised learning:** Finding patterns in unlabeled data.
+## Example
 
-## How AI systems learn
+A common workflow is to collect data, train a model, then evaluate the result on new examples.
 
-1. Collect data
-2. Prepare and clean the data
-3. Train a model using the data
-4. Evaluate the model's performance
-5. Deploy the model into a real system
+## Command block
 
-> Proceed to [Chapter 5](chapter5-best-practices.md) to learn how to build AI responsibly.
+```python
+from sklearn.linear_model import LinearRegression
+model = LinearRegression()
+print('Core AI concept: training a model')
+```
+
+## Real-world use case
+
+Data scientists build regression models to forecast sales and classification models to detect fraud.
+
+> Proceed to [Chapter 5](chapter5-best-practices.md) for responsible AI guidance.

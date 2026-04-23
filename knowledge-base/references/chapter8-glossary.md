@@ -1,17 +1,23 @@
 # Chapter 8: AI Glossary
 
-A quick reference for common AI terms.
+## Explanation
 
-- **Algorithm:** A procedure for solving tasks.
-- **Bias:** A systematic error in model predictions.
-- **Data pipeline:** The workflow that moves data from collection to analysis.
-- **Model:** A trained system that makes predictions.
-- **Training:** The process of teaching a model using data.
+A glossary provides clear definitions for commonly used AI terms and helps learners remember key concepts.
 
-## Additional terms
+## Example
 
-- **Dataset:** A collection of data points used for learning.
-- **Feature:** An individual measurable property of data.
-- **Label:** The expected output used in supervised learning.
-- **Inference:** Using a trained model to make predictions.
-- **Validation:** Testing a model on data it has never seen.
+A term like "model" is defined as a trained system that can make predictions from data.
+
+## Command block
+
+```python
+glossary = {
+    'model': 'A trained system that makes predictions',
+    'dataset': 'A collection of examples used for training'
+}
+print(glossary['model'])
+```
+
+## Real-world use case
+
+Glossaries help teams communicate clearly when building documentation, training materials, and onboarding guides.

@@ -1,19 +1,22 @@
 # Chapter 5: Best Practices for AI
 
-Using AI well means combining strong technical skills with responsible decision-making.
+## Explanation
 
-## Best practices
+Best practices help teams build AI systems that are reliable, fair, and useful.
 
-- Start with clear goals and success criteria.
-- Use high-quality, representative data.
-- Track performance with metrics like accuracy, precision, and recall.
-- Test models with real-world examples.
-- Explain results clearly to stakeholders.
+## Example
 
-## Responsible AI
+A good practice is to validate your model with a separate test dataset before deploying it.
 
-- Avoid bias by checking for unfair predictions.
-- Protect privacy by anonymizing sensitive data.
-- Document assumptions, limitations, and training data sources.
+## Command block
 
-> Next, review common mistakes in [Chapter 6](chapter6-common-mistakes.md).
+```bash
+pip install scikit-learn pandas
+python train_model.py --dataset data.csv
+```
+
+## Real-world use case
+
+Banks use best practices to ensure credit scoring models are transparent, unbiased, and regularly audited.
+
+> Review [Chapter 6](chapter6-common-mistakes.md) to learn what to avoid.

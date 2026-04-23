@@ -1,17 +1,21 @@
 # Chapter 2: Goals of this Knowledge Base
 
-This project aims to provide a beginner-friendly exploration of AI concepts, so learners can:
+## Explanation
 
-- Understand what AI is and how it works
-- Learn the most important AI terminology
-- Recognize practical examples of AI in everyday life
-- Identify ethical concerns and avoid common pitfalls
+This chapter defines what you should learn from the AI knowledge base and how to navigate the content effectively.
 
-## How to use this knowledge base
+## Example
 
-1. Start with the introduction chapters.
-2. Read the topic chapters to get a clear overview.
-3. Review the best practices and common mistakes before applying AI concepts.
-4. Use the glossary and resources for deeper learning.
+A learning goal might be: "Understand the difference between supervised and unsupervised learning."
 
-> Jump to [Chapter 3](../topics/chapter3-topic-overview.md) to continue exploring AI topics.
+## Command block
+
+```bash
+echo "Goal: Learn AI concepts with real examples" > learning-goals.txt
+```
+
+## Real-world use case
+
+Teams use learning goals to plan training sessions, measure progress, and choose the right AI projects for their business.
+
+> Continue to [Chapter 3](../topics/chapter3-topic-overview.md) to explore AI topics.

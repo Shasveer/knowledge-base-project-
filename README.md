@@ -1,19 +1,16 @@
 # Understanding Artificial Intelligence
 
-This repository contains a collaborative knowledge base about Artificial Intelligence.
-It is organized into separate markdown chapters so learners can read one concept at a time.
+## Purpose
 
-## Project goal
+This repository is a collaborative knowledge base designed to teach beginners the fundamentals of Artificial Intelligence. It explains core ideas, shows real-world examples, and guides learners through best practices for responsible AI development.
 
-Create a beginner-friendly AI guide that covers:
+## Usage
 
-- What AI is and why it matters
-- Key AI concepts and terminology
-- Best practices for building AI responsibly
-- Common mistakes to avoid
-- Helpful resources and glossary terms
+- Start in `knowledge-base/introduction/` to understand the project goal and core ideas.
+- Continue through `knowledge-base/topics/` to learn AI concepts, best practices, and common pitfalls.
+- Use `knowledge-base/references/` to expand your study with resources, glossary terms, and examples.
 
-## Project structure
+## Structure
 
 - `knowledge-base/introduction/`
   - `chapter1-introduction.md`
@@ -28,10 +25,17 @@ Create a beginner-friendly AI guide that covers:
   - `chapter8-glossary.md`
 - `SUMMARY.md`
 
-## How to navigate
+## Navigation
 
-Start with `knowledge-base/introduction/chapter1-introduction.md` and follow the links between chapters.
+1. Read `knowledge-base/introduction/chapter1-introduction.md`
+2. Follow the chapter links inside each file
+3. Finish with `knowledge-base/references/chapter7-resources.md` and `knowledge-base/references/chapter8-glossary.md`
 
-## Versioning and collaboration
+## Git workflow evidence
 
-This project demonstrates Git workflow with branches, merge commits, and a final tag `v1.0`.
+This project uses branches, merge commits, GitHub issue tracking, and pull requests to simulate a collaborative development workflow.
+
+## Collaboration tools
+
+- `.github/ISSUE_TEMPLATE/` contains issue templates for bug reports and feature requests.
+- `.github/pull_request_template.md` helps standardize review-ready contributions.

@@ -1,23 +1,21 @@
 # Chapter 7: Resources for Further Learning
 
-These resources will help you deepen your understanding of AI.
+## Explanation
 
-## Recommended reading
+This chapter lists trusted books, websites, and communities for continuing your AI study.
 
-- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
-- "Machine Learning Yearning" by Andrew Ng
-- Online courses from Coursera, edX, and freeCodeCamp
+## Example
 
-## Helpful websites
+A learner might start with a beginner course, then move on to a practical project on Kaggle.
 
-- [AI Ethics Guidelines Global Inventory](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/)
-- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [OpenAI Documentation](https://platform.openai.com/docs)
+## Command block
 
-## Practice and communities
+```bash
+git clone https://github.com/your-repo/ai-project-example.git
+```
 
-- Kaggle competitions and tutorials
-- GitHub repositories with sample AI projects
-- Local study groups and open-source communities
+## Real-world use case
 
-> For definitions and quick references, read [Chapter 8](chapter8-glossary.md).
+Many learners use online resources and open-source projects to practice AI skills and build portfolios.
+
+> See [Chapter 8](chapter8-glossary.md) for important AI terms.
